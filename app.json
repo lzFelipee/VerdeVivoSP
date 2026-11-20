@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "VerdeVivo SP",
+    "slug": "verdevivo-sp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "verdevivo",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
